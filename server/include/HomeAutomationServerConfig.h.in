@@ -1,0 +1,3 @@
+// the configured options and settings for HomeAutomationServer
+#define HomeAutomationServer_VERSION_MAJOR @HomeAutomationServer_VERSION_MAJOR@
+#define HomeAutomationServer_VERSION_MINOR @HomeAutomationServer_VERSION_MINOR@
